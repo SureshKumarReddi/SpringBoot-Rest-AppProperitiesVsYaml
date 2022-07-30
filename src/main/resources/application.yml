@@ -1,0 +1,10 @@
+server:
+  port: 9090
+
+myapp: 
+  messages: # this is maintained as Map in Configuration file for maintaining the key value pairs
+    msg1: hh  #one space is required for value in key-value pair
+    msg2: lieons
+    msg3: birds
+    msg4: cats
+    msg5: Dogs
